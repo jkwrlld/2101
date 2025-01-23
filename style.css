@@ -1,3 +1,4 @@
-.team-list {
-    display: flex;
+.gfy {
+ display: flex;
+ flex-direction: column-reverse;   
 }
